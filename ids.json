@@ -1,6 +1,5 @@
 {
-  "RED-224V-9BZA-2HQH": {
-    "participant_name": "nan",
-    "issue_date": "2025-04-04",
-    "verification_url": "https://verify.redops.io"
-  }
+"RED-24CK-4BSV-4NR3": { "Jonas Kemmner": "", "issue_date": "2025-09-26" },
+"RED-9999-AAAA-BBBB": { "participant_name": "", "issue_date": "2025-09-01" },
+"RED-REVOK-ED00-0001": { "revoked": true, "revoked_on": "2025-09-02", "reason": "Reissued with correction" }
+}
