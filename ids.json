@@ -1,5 +1,16 @@
 {
 "RED-24CK-4BSV-4NR3": { "participant_name": "Jonas Kemmner", "issue_date": "2025-09-26" },
-"RED-9999-AAAA-BBBB": { "participant_name": "", "issue_date": "2025-09-01" },
-"RED-REVOK-ED00-0001": { "revoked": true, "revoked_on": "2025-09-02", "reason": "Reissued with correction" }
-}
+"RED-FQJ2-PYT4-7ZTB": { "participant_name": "Dominik Steffan", "issue_date": "2025-09-26" },
+"RED-WWU3-V2TX-UFGB": { "participant_name": "David Wind", "issue_date": "2025-09-26" },
+"RED-W3R5-72CX-N63T": { "participant_name": "Gabor Szivos", "issue_date": "2025-09-26" },
+"RED-JAAM-8AJM-2HKN": { "participant_name": "Christoph Steinauer", "issue_date": "2025-09-26" },
+"RED-JCCS-7Q55-S4M5": { "participant_name": "Manuel Reinsperger", "issue_date": "2025-09-26" },
+"RED-FAYW-NH53-W2GQ": { "participant_name": "Dominik Rieder", "issue_date": "2025-09-26" },
+"RED-BKEN-JPAN-NGMS": { "participant_name": "Joshua Wolf", "issue_date": "2025-09-26" },
+"RED-689H-5PW9-QD47": { "participant_name": "Markus Baitinger", "issue_date": "2025-09-26" },
+"RED-B86C-2549-W8Z5": { "participant_name": "Matthias Hoffmann", "issue_date": "2025-09-26" },
+"RED-SMN8-WEWB-B9PH": { "participant_name": "Robert Rostek", "issue_date": "2025-09-26" },
+"RED-4D99-NDRR-PE2X": { "participant_name": "Darius Beckert", "issue_date": "2025-09-26" },
+
+ "RED-REVOK-ED00-0001": { "revoked": true, "revoked_on": "2025-09-02", "reason": "Reissued with correction" }
+ }
