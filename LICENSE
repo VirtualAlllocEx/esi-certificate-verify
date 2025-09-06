@@ -1,0 +1,22 @@
+Certificate Verification Tool – Usage License
+Copyright (c) 2025 Daniel Feichter. All rights reserved.
+
+This repository contains software used for verifying participant certificates.
+The integrity and authenticity of certificates depend on the correct and
+unaltered functioning of this software.
+
+Permissions:
+- You may view and use this software as provided in this official repository
+  for the purpose of verifying participant certificates.
+
+Restrictions:
+- You may NOT copy, modify, fork, redistribute, sublicense, or host this
+  software in any other repository or environment.
+- You may NOT alter or create derivative versions of this software.
+- Any use of altered or rehosted versions of this software is strictly
+  prohibited, as it compromises the reliability of certificate verification.
+
+Disclaimer:
+This software is provided "as is", without warranty of any kind. The copyright
+holder is not responsible for any misuse or damages resulting from
+unauthorized modifications or rehosting of this software.
